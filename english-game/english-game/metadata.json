@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Grade 1 English Adventure",
+  "description": "A playful and interactive English vocabulary learning game for Grade 1 students, featuring AI-powered rewards and image generation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
